@@ -1,0 +1,10 @@
+class Arithmetic{
+    pubic static void main(String [] args)
+    {
+        System.out.println(10+20+30+ "Java");
+        System.out.println(10+10+"java"+10+10);
+        System.out.println(10+20+ "Java"+(10+20));
+        System.out.println('A'+"java");
+        System.out.println('A'+'A'+ "Java");
+    }
+}
