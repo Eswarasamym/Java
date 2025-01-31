@@ -7,4 +7,3 @@ class Arith{
         System.out.println('A'+"java");
         System.out.println('A'+'A'+ "Java");
     }
-}
