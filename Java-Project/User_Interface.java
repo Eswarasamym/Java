@@ -46,4 +46,12 @@ public class User_Interface {
                     bag.showGame();
                     break;
                 }
-  
+                case 5: {
+                    flag = false;
+                    break;
+                }
+            }
+        }while (flag);
+        System.out.println("Thank You");
+    }
+}
