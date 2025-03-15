@@ -3,7 +3,7 @@ class Table
 {
     static Scanner sc=new Scanner(System.in);
     static int count=7;
-    public static void main(String[] args)
+    public static void main(Strin/g[] args)//
     {
         System.out.println("Enter  n :");
         int number=sc.nextInt();
