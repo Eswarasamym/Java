@@ -5,7 +5,11 @@ abstract class Hotel{     //service specifier
 }
 
 
-    
+    /*abstract class DubaiChef extends Hotel{
+    abstract public void biryani();
+    abstract public void gheeRice();
+}
+*/
    class DubaiChef extends Hotel{
     @Override
     public void biryani(){
@@ -18,7 +22,7 @@ abstract class Hotel{     //service specifier
     }
        
 }
-/*abstract class DubaiChef extends Hotel{
+/*abstract class IndianChef extends Hotel{
     abstract public void biryani();
     abstract public void gheeRice();
 }
